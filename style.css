@@ -2,11 +2,10 @@ body{
     background-color: grey;
     margin: 0;
 }
-p{
+p{ 
     font-family: Impact, fantasy ;
     color: rgb(255, 255, 255);
-    text-align: center;
-    
+    text-align: center;    
 }
 h1{
     color:aqua;
